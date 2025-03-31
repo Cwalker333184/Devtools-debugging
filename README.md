@@ -13,4 +13,5 @@ Captured all **10 secret messages** using Google Developer Tools by setting brea
 - 'task-6': 'Secret Message for Task 6', Rainbow
 - 'task-7': 'Secret Message for Task 7', Pyramid
 - 'task-8': 'Secret Message for Task 8', Butterfly
-- 'task-9': 'Secret Message for Task 9', Volcano
+- 'task-9': 'Secret Message for Task 9', Comet
+- 'task-10': 'Secret Message for Task 10', Volcano
