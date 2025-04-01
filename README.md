@@ -4,7 +4,7 @@
 Captured all **10 secret messages** using Google Developer Tools by setting breakpoints in `script.js`.  
 
 ##  Secret Messages  
-
+### Day 2:
 - 'task-1': 'Secret Message for Task 1', Pancakes
 - 'task-2': 'Secret Message for Task 2', Waffles
 - 'task-3': 'Secret Message for Task 3', French Toast
